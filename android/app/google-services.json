@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960358110550",
+    "project_id": "havera-ex",
+    "storage_bucket": "havera-ex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960358110550:android:cd7f5c7d81476238ebf2f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOz15JqvEjUCHruMXPCdgntlZ9de8TWMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
